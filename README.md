@@ -21,7 +21,8 @@ Small project to remember the check list of steps for neural networks
 ### General
 
 - [ ] Split the dataset into training set (70%), validation set (15%) to choose the best model and see if overfits, test set (15%) to get the final error.
-- [ ] k-fold Crossvalidation? 
+- [ ] k-fold Crossvalidation?
+- [ ] Outliers in the training data? Neural networks are very sensible to them. Try to exclude them (via filtering or via a custom cost function).
 
 
 
