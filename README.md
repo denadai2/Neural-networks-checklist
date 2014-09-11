@@ -16,7 +16,7 @@ Small project to remember the check list of steps for neural networks. I usually
 
 ### Architecture
 
-- [ ] The default MSE error to minimize is not compulsary. A custom cost might work better.
+- [ ] It's not compulsary to use only the default MSE error. A custom cost might work better.
 
 ### General
 
