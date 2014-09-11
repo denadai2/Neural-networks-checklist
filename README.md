@@ -1,7 +1,7 @@
 Neural-networks-checklist
 =========================
 
-Small project to remember the check list of steps for neural networks
+Small project to remember the check list of steps for neural networks. I usually hate to forget the minimal steps to have good results, so this could be a good starting point for everyone (to print and have next to you).
 
 
 ### Stochastic Gradient Descent
