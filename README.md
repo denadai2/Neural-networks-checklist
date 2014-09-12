@@ -8,7 +8,7 @@ Small project to remember the check list of steps for neural networks. I usually
 
 
 
-- [ ] Normalize/scale inputs. _Ref: [#2][2][#3][3]_
+- [ ] Normalize/scale inputs. _Ref: [#2][2] [#3][3]_
 - [ ] Initialize the weights in a good (random) way. _Ref: [#2][2]_
 - [ ] Randomly shuffle the training examples. _Ref: [#2][2]_
 - [ ] Experiment with the learning rates using a small sample of the training set _Ref: [#1][1]_
